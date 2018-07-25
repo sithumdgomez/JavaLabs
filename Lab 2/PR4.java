@@ -1,0 +1,18 @@
+class StringExpression
+{
+	public static void main(String[]args)
+	{
+		
+		String str;		
+		int num1,num2;
+
+		num1 = 12;
+		num2 = 26;
+
+		str = "The sum = " + (num1 + num2); 
+		System.out.println(str);
+
+		
+		
+	}
+}
